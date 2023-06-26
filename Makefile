@@ -1,9 +1,9 @@
-# Makefile for Activity 3
+# Makefile for Activity 4
 
 CC=gcc -std=c99
 
-ptrs: activity3.c string_funcs.c
-	${CC} -o ptrs activity3.c string_funcs.c
+binconv: activity4.c binary_convert.c
+	${CC} -o binconv activity4.c binary_convert.c
 
 clean:
-	rm -f ptrs
+	rm -f binconv
