@@ -55,8 +55,9 @@ to create a string representing the number `i` in binary. Note that all the conv
 functions return a new, dynamically-allocated string. You need to assign this to the
 variable provided, `bin_str`. Add this string to the print statement after the "Binary:"
 part.
-- Finally, note that the `print_all_pos_bytes` functionw as written with a "while true"
-loop structure. This might seem like overkill! Make a copy of the function, and change 
+- Finally, note that the `print_all_pos_bytes` function uses a "while true"
+loop structure. This might seem like overkill, given that we want to iterate over
+a fixed number of values. Make a copy of the function, and change 
 it to use a simple `for` loop. What happens? And why?
 
 ### (Optional) Task 2: Revise the function to print other sized unsigned integers
