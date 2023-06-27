@@ -1,5 +1,6 @@
 # Activity 4: Binary and Hex Representations
 
+## Put Names Here
 Folder: `activities_bin_hex`
 
 This is an introduction to:
@@ -33,7 +34,8 @@ of as much as you can.
 ## Your tasks
 
 ### First Steps
-- As always, add your name in a comment at the top of each file you edit!
+- As always, add your name(s) in a comment at the top of each file you edit!
+- Add your name(s) to the top of this README file, as well!
 - Read through all the files, including the header and Makefile to be sure you
 understand the context of what you are doing. 
 
