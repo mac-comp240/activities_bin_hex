@@ -1,4 +1,5 @@
 # Activity 4: Binary and Hex Representations
+## Put your name(s) here
 
 Folder: `activities_bin_hex`
 
@@ -95,6 +96,9 @@ You should comment each function you write like you would for Java:
   - [An Introduction to Makefiles](https://www.gnu.org/software/make/manual/html_node/Introduction.html), by GNU
   - [Makefile Tutorials and Examples to Build From](https://earthly.dev/blog/make-tutorial/), by Aniket Bhattacharyea
   - [makefile basics - anthony explains](https://www.youtube.com/watch?v=20GC9mYoFGs)
+- Printf formatting codes
+  - [printf format specifier reference from cplusplus.com](http://www.cplusplus.com/reference/cstdio/printf/).
+  [_Format Specifiers in C_](https://www.thecrazyprogrammer.com/2016/10/format-specifiers-c.html) by The Crazy Programmer
 - General C syntax help
   - [Chapter 1 of _Dive into Systems_](https://diveintosystems.org/book/C1-C_intro/index.html)
   - _The C Programming Language_, often just known as K&R for Kernighan and Ritchie
