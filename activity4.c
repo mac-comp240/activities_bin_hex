@@ -40,11 +40,12 @@ void print_all_pos_bytes() {
         // TODO: call conversion function to make string rep for binary
         
     	// TODO: add to this print statement to print both hex and binary
-	    printf("Decimal: %hhu | Hex:  | Binary: \n", i);
+	    printf("Decimal: %u | Hex:  | Binary: \n", i);
 
     	// We need this to manage memory--remember that each memory allocation
     	// requires a matching free()!
-    	free(bin_str);
+        // TODO: Uncomment the line below once you assign bin_str above
+    	// free(bin_str);
 
         // Stops the loop
        	if (i == UCHAR_MAX)
