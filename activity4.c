@@ -28,7 +28,7 @@ int main() {
  */
 void print_all_pos_bytes() {
     // Loop counter, to be turned to binary and hex
-    unsigned int i;
+    unsigned char i;
     
     // String variable to contain binary string
     char *bin_str; 
